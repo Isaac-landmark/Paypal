@@ -1,4 +1,4 @@
 deployement is ready
-in uat
+uat
 qa testing completed
 perfomance testing is good
